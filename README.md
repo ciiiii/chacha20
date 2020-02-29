@@ -1,6 +1,5 @@
-### chacha20 - ChaCha20
+### chacha20 - ChaCha20(**import from https://gitlab.com/yawning/chacha20**)
 #### Yawning Angel (yawning at schwanenlied dot me)
-
 Yet another Go ChaCha20 implementation.  Everything else I found was slow,
 didn't support all the variants I need to use, or relied on cgo to go fast.
 
